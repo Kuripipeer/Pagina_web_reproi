@@ -1144,7 +1144,7 @@ nav.main-menu {
 	vertical-align: middle;
 }
 
-.main-menu ul>li:nth-child (6) {
+.main-menu ul>li:nth-child(6) {
 	padding-right: 0px;
 }
 
@@ -1454,7 +1454,7 @@ margin-bottom: -35px;
 z-index: 999;
 
 }
-}
+
 
 
 /** download section **/
@@ -1471,7 +1471,7 @@ z-index: 999;
 }
 
 .Screenshot .titlepage span {
-	color: # 3d3c3c
+	color: #3d3c3c
 }
 
 .Screenshot .titlepage h2 {
@@ -1577,7 +1577,7 @@ margin-bottom: 20px;
 }
 
 .service .titlepage span {
-	color: # 3d3c3c
+	color: #3d3c3c
 }
 
 .service .service-box figure {
